@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.401" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/drawable-v24/round_square_light.xml" value="0.401" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/drawable/circle.xml" value="0.401" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/drawable/exit.xml" value="0.401" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/drawable/ic_baseline_all_inclusive_24.xml" value="0.3005" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/drawable/ic_baseline_computer_24.xml" value="0.3005" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/drawable/ic_baseline_multiline_chart_24.xml" value="0.3005" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/drawable/ic_launcher_background.xml" value="0.401" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/drawable/round_square.xml" value="0.401" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/drawable/round_square_white.xml" value="0.401" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.3534136546184739" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/layout-w936dp/activity_login.xml" value="0.4125" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/layout/activity_list.xml" value="0.3109375" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/layout/content_scrolling.xml" value="0.3109375" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/layout/item_mesk.xml" value="0.55" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/layout/mesk_list.xml" value="0.5" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/mipmap-anydpi-v26/ic_informatics.xml" value="0.3005" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3005" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3005" />
+        <entry key="..\:/Users/nimdi/OneDrive/codez/Nurimesk/app/src/main/res/mipmap-anydpi-v26/ic_physics.xml" value="0.3005" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
